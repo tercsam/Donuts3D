@@ -1,6 +1,6 @@
 # Donuts3D
 
-A code that make a 3D donut shape with ASCII art
+A code that make a 3D spinning donut shape with ASCII art
 
 
 EXEMPLE: 
